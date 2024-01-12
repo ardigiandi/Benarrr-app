@@ -8,6 +8,7 @@ module.exports = {
         grey: '#F3F0F8',
         ungu: '#5313CA',
         abu: '#EDEEF2',
+        kuning: '#FF9736',
       },
     },
   },
