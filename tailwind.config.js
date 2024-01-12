@@ -9,6 +9,7 @@ module.exports = {
         ungu: '#5313CA',
         abu: '#EDEEF2',
         kuning: '#FF9736',
+        hijau: '#75F1F1',
       },
     },
   },
